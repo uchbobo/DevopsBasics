@@ -1,2 +1,2 @@
-<h1> This is testiing our CICD Pipeline to see if our CI triggers our CD  </h1>
+<h1> Alright. We have reached the end of DevOps1 having successfully completed this Ansible CI/CD project </h1>
 
