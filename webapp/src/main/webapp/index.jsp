@@ -44,7 +44,7 @@
 
 <body>
     <div>
-        <h1>Welcome to the successful deployment of our demo App!</h1>
+        <h1>This is just the start of DevOps!</h1>
         <p>This is the homepage of the demo App of <a href="#">click here</a> theitern.com!</p>
     </div>
 </body>
