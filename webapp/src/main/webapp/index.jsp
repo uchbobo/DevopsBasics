@@ -44,8 +44,8 @@
 
 <body>
     <div>
-        <h1>This is just the start of DevOps, thanks!</h1>
-        <p>This is the homepage of the demo App of <a href="#">click here</a> theitern.com!</p>
+        <h1>This is the completion of CD/CD Automation Deployment to Docker in Operations</h1>
+        <p>Welcome to the demo App of <a href="#">click here</a> theitern.com!</p>
     </div>
 </body>
 
