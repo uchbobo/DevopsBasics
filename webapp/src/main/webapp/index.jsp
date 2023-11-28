@@ -44,8 +44,8 @@
 
 <body>
     <div>
-        <h1>This is the completion of CD/CD Automation Deployment to Docker in Operations </h1>
-        <p>Welcome to the demo App of <a href="#">click here</a> theitern.com!</p>
+        <h1>Welcome to my CI/CE </h1>
+        <p>For additional info, click <a href="#">click here</a> theitern.com!</p>
     </div>
 </body>
 
