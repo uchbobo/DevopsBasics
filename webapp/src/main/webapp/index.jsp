@@ -44,7 +44,7 @@
 
 <body>
     <div>
-        <h1>Welcome to my CI/CE </h1>
+        <h1>A demo that the CD/CD pipeline is working</h1>
         <p>For additional info, click <a href="#">click here</a> theitern.com!</p>
     </div>
 </body>
